@@ -10,4 +10,5 @@
 - Currently studying Spatial Sciences for the Environment -> for a Master's
 
 ## Some examples of my work
-<img width="3507" height="2480" alt="earthquakes" src="https://github.com/user-attachments/assets/54a9ec72-6d0c-45b7-864f-ab662f31cc7d" />
+
+<img width="3507" height="2480" alt="earthquakes" src="https://github.com/user-attachments/assets/51bb4686-20f3-4c5b-8f7e-a258378f5f67" />
